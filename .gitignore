@@ -42,4 +42,4 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
-const apiKey = '185EFE21-5684-4E07-8F0A-8385737CE68E';
+const apiKey = 'api-key';
